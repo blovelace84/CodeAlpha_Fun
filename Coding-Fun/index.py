@@ -1,0 +1,1 @@
+print("CodeAlpha"[-1])
