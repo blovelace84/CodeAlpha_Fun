@@ -1,1 +1,3 @@
-print("Hello" == "hello")
+#print("Hello" == "hello")
+
+print("5" + "10")
