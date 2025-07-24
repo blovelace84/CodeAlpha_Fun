@@ -1,4 +1,9 @@
-a = True
-b = False
+#a = True
+#b = False
 
-print(a + b)
+#print(a + b)
+
+a = "5"
+b = 5
+
+print( a * b )
